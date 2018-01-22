@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FristLearn.Plugins", "FristLearn.Plugins.csproj", "{53FD8DC0-7F4F-A95D-5598-2C3D408BAFE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FristLearn", "FristLearn.csproj", "{F518CD17-7126-8DCD-E28A-A49668535338}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FristLearn.Editor.Plugins", "FristLearn.Editor.Plugins.csproj", "{C332B3A6-BA22-A2C4-F25E-31FD9805F728}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FristLearn.Editor", "FristLearn.Editor.csproj", "{0D44E856-E8B7-18EF-D2F8-B6B44EAC74D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53FD8DC0-7F4F-A95D-5598-2C3D408BAFE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53FD8DC0-7F4F-A95D-5598-2C3D408BAFE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53FD8DC0-7F4F-A95D-5598-2C3D408BAFE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53FD8DC0-7F4F-A95D-5598-2C3D408BAFE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F518CD17-7126-8DCD-E28A-A49668535338}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F518CD17-7126-8DCD-E28A-A49668535338}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F518CD17-7126-8DCD-E28A-A49668535338}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F518CD17-7126-8DCD-E28A-A49668535338}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C332B3A6-BA22-A2C4-F25E-31FD9805F728}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C332B3A6-BA22-A2C4-F25E-31FD9805F728}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C332B3A6-BA22-A2C4-F25E-31FD9805F728}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C332B3A6-BA22-A2C4-F25E-31FD9805F728}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D44E856-E8B7-18EF-D2F8-B6B44EAC74D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D44E856-E8B7-18EF-D2F8-B6B44EAC74D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D44E856-E8B7-18EF-D2F8-B6B44EAC74D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D44E856-E8B7-18EF-D2F8-B6B44EAC74D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
